@@ -1,0 +1,29 @@
+{
+  "name": "timelapseutil",
+  "version": "1.0.0",
+  "description": "Electron based utils for timelapse assembly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://xinaesthete@github.com/xinaesthete/TimelapseUtil.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "photography",
+    "timelapse",
+    "utility"
+  ],
+  "author": "Peter Todd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinaesthete/TimelapseUtil/issues"
+  },
+  "homepage": "https://github.com/xinaesthete/TimelapseUtil",
+  "dependencies": {
+    "electron": "^1.4.15",
+    "fluent-ffmpeg": "^2.1.0"
+  }
+}
